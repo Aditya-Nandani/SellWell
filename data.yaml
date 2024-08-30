@@ -1,0 +1,4 @@
+train: data_images/train1
+val: data_images/test1
+nc: 14
+names: ['paper','ac','washing_machine','printer','tv','fridge','metal','cooler','cpu','fidge','oven','plastic','cardboard','car']
